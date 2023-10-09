@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/liselotte-nunez"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
 
 
+
 ### 🧐 More About Me:
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?raw=true" width="400" height="320" />
