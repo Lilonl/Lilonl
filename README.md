@@ -1,16 +1,15 @@
-### Hi👋
- Welcome to my page!!
+# Hi👋
+# Welcome to my page!!
 
-My name is Liselotte, I'm a front end developer student from Dominican Republic.
+### My name is Liselotte, I'm a front end developer student from Dominican Republic.
 
 <a href="mailto:liselottenunez7@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
 <a href="https://www.linkedin.com/in/liselotte-nunez"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?raw=true" width="400" height="320" />
-
-<br />
 
 ### 🧐 More About Me:
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?raw=true" width="400" height="320" />
 
 - 🌱 &nbsp; I’m currently learning Java and React;
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Lilonl?tab=repositories)
