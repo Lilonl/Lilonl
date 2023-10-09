@@ -18,7 +18,7 @@ My name is Liselotte, I'm a front end developer student from Dominican Republic.
 - 📚 &nbsp; When I'm free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/user/show/74384726-liselotte-nunez) to see the books I have read
 
 <br>
-<h2>🚀 Some Tools I Use</h2>
+<h2>🚀 Some Languages and Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
