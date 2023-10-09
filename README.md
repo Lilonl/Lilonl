@@ -35,12 +35,12 @@ My name is Liselotte, I'm a front end developer student from Dominican Republic.
 <br>
 <p align=center>
   <div align=center>
-    <img align="left" width=400 src="https://streak-stats.demolab.com/?user=lilonl&theme=radical&border=61dafb&hide_border=true" alt="lilonl" />
-    <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=lilonl&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" 
+    <img align="left" width=350 src="https://streak-stats.demolab.com/?user=lilonl&theme=radical&border=61dafb&hide_border=true" alt="lilonl" />
+    <img align="right" width=350 src="https://github-readme-stats.vercel.app/api?username=lilonl&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" 
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilonl&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilonl&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
   </div>
   <br>
 
